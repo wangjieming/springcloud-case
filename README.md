@@ -16,7 +16,8 @@
 
 ### [4.让服务消费者跑起来](https://github.com/wangjieming/springcloud-case/blob/main/doc/4.%E8%AE%A9%E6%9C%8D%E5%8A%A1%E6%B6%88%E8%B4%B9%E8%80%85%E8%B7%91%E8%B5%B7%E6%9D%A5.md)
 
-
+### [5.老板，来三个服务提供者玩玩](https://github.com/wangjieming/springcloud-case/blob/main/doc/5.%E8%80%81%E6%9D%BF%EF%BC%8C%E6%9D%A5%E4%B8%89%E4%B8%AA%E6%9C%8D%E5%8A%A1%E6%8F%90%E4%BE%9B%E8%80%85%E7%8E%A9%E7%8E%A9%EF%BC%9F.md)
+ 
 
 ## 原理篇
 
